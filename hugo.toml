@@ -1,3 +1,8 @@
 baseURL = 'https://virginialinux.org'
 languageCode = 'en-us'
 title = 'VirginiaLinux.org'
+theme = 'hugo-xterm'
+
+[module]
+  [[module.imports]]
+    path = "github.com/manid2/hugo-xterm"
