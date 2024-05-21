@@ -4,15 +4,19 @@
     <title>VirginiaLinux.org</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on VirginiaLinux.org</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
       <guid>http://localhost:1313/hello/</guid>
       <description>Hello! Hi! Hola!</description>
+      <content>&lt;p&gt;Hello!
+Hi!
+Hola!&lt;/p&gt;
+</content>
     </item>
   </channel>
 </rss>
